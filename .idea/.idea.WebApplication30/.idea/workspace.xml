@@ -16,6 +16,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2xo1cdvHKBmg6krb8zZUOEcDY4R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,6 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -87,6 +89,8 @@
       <workItem from="1748595687820" duration="437000" />
       <workItem from="1748716035887" duration="3120000" />
       <workItem from="1748720071811" duration="12000" />
+      <workItem from="1748766256875" duration="4859000" />
+      <workItem from="1748873891806" duration="2171000" />
     </task>
     <servers />
   </component>
